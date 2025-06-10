@@ -14,6 +14,6 @@ Strategies for integrating key influencers to enhance product pricing and custom
 
 <img src="https://github.com/Alima39/Inventory_Management_Analysis_PowerBI/blob/main/Dashboard_Images/Stock_Overview.PNG" width="1000"/>
 
-[<img src="https://github.com/Alima39/Inventory_Management_Analysis_PowerBI/blob/main/Dashboard_Images/Supplier%20Performance.PNG" width="1000"/>];
+<img src="https://github.com/Alima39/Inventory_Management_Analysis_PowerBI/blob/main/Dashboard_Images/Supplier%20Performance.PNG" width="1000"/>
 
-[<img src="https://github.com/Alima39/Inventory_Management_Analysis_PowerBI/blob/main/Dashboard_Images/Geographic_Insights.PNG" width="1000"/>];
+<img src="https://github.com/Alima39/Inventory_Management_Analysis_PowerBI/blob/main/Dashboard_Images/Geographic_Insights.PNG" width="1000"/>
